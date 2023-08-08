@@ -42,4 +42,4 @@ This kind of project can easily go under a *good development pattern* and *good 
 
 ## The Author
 
-[Omar Kadish]([http://ph7.me](https://omarkadish.com/)https://omarkadish.com/)
+[Omar Kadish](https://omarkadish.com/)
